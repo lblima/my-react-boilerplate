@@ -1,1 +1,1 @@
-﻿This project is the client of a React App to test the Authentication features on React and Node Api.
+﻿This project is my personal boilerplate for a simple React App.
