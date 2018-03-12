@@ -1,1 +1,1 @@
-﻿This project is my personal boilerplate for a simple React App.
+This project is my personal boilerplate for a simple React App.
